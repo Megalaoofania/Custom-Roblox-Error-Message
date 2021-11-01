@@ -1,2 +1,2 @@
-Go to https://megalaoofania.github.com/Custom-Roblox-Error-Message
+Go to https://megalaoofania.github.io/Custom-Roblox-Error-Message
 Open Inspect Element and go to console.
